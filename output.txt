@@ -1,0 +1,5 @@
+summation = 22
+subtraction = 12
+multiplication = 85
+division = 3.4
+reminder = 2
