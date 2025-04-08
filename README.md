@@ -44,7 +44,7 @@ Operators are symbols that perform operations on variables and values.
 
 ---
 
-#### 1. Arithmetic Operators
+### 1. Arithmetic Operators
 Used for basic mathematical operations.
 
 | Operator | Meaning        | Example                        |
@@ -66,7 +66,7 @@ printf("Division = %.1f\n", div); // Prints the division result as a float with 
 ```
 ---
 
-#### 2. Relational Operators
+### 2. Relational Operators
 
 Relational operators are used to compare values. These operators always return either `1` (true) or `0` (false).
 
@@ -81,7 +81,7 @@ Relational operators are used to compare values. These operators always return e
 
 ---
 
-#### 3. Logical Operators
+### 3. Logical Operators
 
 Logical operators are used to perform logical operations between expressions. These operators help combine multiple conditions.
 
@@ -93,10 +93,10 @@ Logical operators are used to perform logical operations between expressions. Th
 
 ---
 
-#### 🔀 Conditional Statements
+### 🔀 Conditional Statements
 Used to make decisions in a program based on conditions.
 
-#### 1. `if-else` Statement
+### 1. `if-else` Statement
 
 The `if-else` statement is used to execute a block of code if a condition is true. If the condition is false, a different block of code is executed. This allows you to control the flow of your program based on specific conditions.
 
@@ -110,7 +110,7 @@ if (condition) {
 ```
 ---
 
-#### 2. `if-else if (Ladder)` Statement
+### 2. `if-else if (Ladder)` Statement
 
 The `if-else if` ladder is used to check multiple conditions one by one. It allows you to evaluate more than one condition in a sequence and execute the corresponding block of code for the first true condition. If none of the conditions are true, the final `else` block is executed.
 
@@ -127,7 +127,7 @@ if (condition1) {
 
 ---
 
-#### 3. `Nested if else` Statement
+### 3. `Nested if else` Statement
 
 A `nested if else` statement occurs when an `if` or `else` block contains another `if` or `else` block. This allows you to create more complex decision-making structures by checking conditions within conditions.
 
@@ -145,7 +145,7 @@ if (condition1) {
 ```
 ---
 
-#### 4. `if Only (Without else)` Statement
+### 4. `if Only (Without else)` Statement
 
 The `if only` statement is a variation of the `if-else` structure where you only want to execute a block of code if a specific condition is true. If the condition is false, nothing happens, and the program continues to the next statement without executing any `else` block.
 
@@ -156,7 +156,7 @@ if (condition) {
 }
 ```
 ---
-#### ✅ **Final Thoughts**
+### ✅ Final Thoughts
 
 This type of repository will be added to my GitHub as I continue to learn more topics. I hope others find it useful. If you find it useful, feel free to follow me and star the repo! If you notice any **mistakes**, please let me know so I can fix them. I'll be creating new repositories as I learn, so feel free to follow those as well if you want to keep up with my progress.
 
