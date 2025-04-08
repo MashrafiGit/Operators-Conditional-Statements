@@ -7,7 +7,7 @@ Today I learned about **Operators** and **Conditional Statements** in C, and thi
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 To clone this repository and run it locally on your computer, follow these steps:
 
@@ -23,7 +23,7 @@ To clone this repository and run it locally on your computer, follow these steps
 
 ---
 
-## 🧠 Topics Covered
+### 🧠 Topics Covered
 - **Operators**:
     - Arithmetic Operators
     - Relational Operators
@@ -37,14 +37,14 @@ To clone this repository and run it locally on your computer, follow these steps
 
 ---
 
-## ➕ Operators
+### ➕ Operators
 
-### 🔹 What is an Operator?
+#### 🔹 What is an Operator?
 Operators are symbols that perform operations on variables and values.
 
 ---
 
-### 1. Arithmetic Operators
+#### 1. Arithmetic Operators
 Used for basic mathematical operations.
 
 | Operator | Meaning        | Example                        |
@@ -63,10 +63,10 @@ Example:
 ```c
 float div = (float)a / b; // In multi-step operations, you don't need to convert every variable to float. This is a shortcut to convert 'a' (an integer) to float for accurate division, avoiding integer truncation.
 printf("Division = %.1f\n", div); // Prints the division result as a float with one decimal place
-
+```
 ---
 
-### 2. Relational Operators
+#### 2. Relational Operators
 
 Relational operators are used to compare values. These operators always return either `1` (true) or `0` (false).
 
@@ -81,7 +81,7 @@ Relational operators are used to compare values. These operators always return e
 
 ---
 
-### 3. Logical Operators
+#### 3. Logical Operators
 
 Logical operators are used to perform logical operations between expressions. These operators help combine multiple conditions.
 
@@ -93,7 +93,7 @@ Logical operators are used to perform logical operations between expressions. Th
 
 ---
 
-### 🔀 Conditional Statements
+#### 🔀 Conditional Statements
 Used to make decisions in a program based on conditions.
 
 #### 1. `if-else` Statement
@@ -127,7 +127,7 @@ if (condition1) {
 
 ---
 
-### 3. `Nested if else` Statement
+#### 3. `Nested if else` Statement
 
 A `nested if else` statement occurs when an `if` or `else` block contains another `if` or `else` block. This allows you to create more complex decision-making structures by checking conditions within conditions.
 
@@ -145,7 +145,7 @@ if (condition1) {
 ```
 ---
 
-### 4. `if Only (Without else)` Statement
+#### 4. `if Only (Without else)` Statement
 
 The `if only` statement is a variation of the `if-else` structure where you only want to execute a block of code if a specific condition is true. If the condition is false, nothing happens, and the program continues to the next statement without executing any `else` block.
 
@@ -156,7 +156,8 @@ if (condition) {
 }
 ```
 ---
-### ✅ Final Thoughts
+#### ✅ Final Thoughts
 
 This type of repository will be added to my GitHub as I continue to learn more topics. I hope others find it useful. If you find it useful, feel free to follow me and star the repo! If you notice any **mistakes**, please let me know so I can fix them. I'll be creating new repositories as I learn, so feel free to follow those as well if you want to keep up with my progress.
+
 Email: [mashrafi.mail@gmail.com](mailto:mashrafi.mail@gmail.com)
