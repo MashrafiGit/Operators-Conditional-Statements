@@ -54,5 +54,12 @@ int main()
         printf("I'm gonna eat Momo\n");
     }
 
+    
+    if (money >= 10)
+    {
+        printf("Hi");
+    }
+    printf("hello");
+
     return 0;
 }

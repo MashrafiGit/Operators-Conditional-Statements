@@ -1,7 +1,3 @@
-I'm gonna eat Burger
-I'm gonna eat Burger
-I'm gonna eat Potato Fry
-I'm gonna eat ice bar
-I'm gonna eat Chicken Fry
-I'm gonna buy a chocolate for my baby's
-I'm gonna eat Momo
+AND: Both conditions are true
+OR: At least one condition is true
+NOT: a is not less than b
