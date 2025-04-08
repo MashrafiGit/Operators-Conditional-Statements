@@ -1,6 +1,7 @@
-a is less than b = 1
-a is less than or equal to b = 1
-a is greater than b = 0
-a is greater than or equal to b = 0
-a is equal to b = 0
-a is not equal to b = 1
+I'm gonna eat Burger
+I'm gonna eat Burger
+I'm gonna eat Potato Fry
+I'm gonna eat ice bar
+I'm gonna eat Chicken Fry
+I'm gonna buy a chocolate for my baby's
+I'm gonna eat Momo
