@@ -156,7 +156,7 @@ if (condition) {
 }
 ```
 ---
-#### ✅ Final Thoughts
+#### ✅ **Final Thoughts**
 
 This type of repository will be added to my GitHub as I continue to learn more topics. I hope others find it useful. If you find it useful, feel free to follow me and star the repo! If you notice any **mistakes**, please let me know so I can fix them. I'll be creating new repositories as I learn, so feel free to follow those as well if you want to keep up with my progress.
 
